@@ -1,11 +1,11 @@
-# bot-pterodacty
+# game-cude
 
-Бот для работы с pterodactyl 
+Это мини игра бета 
 
 ## Установка
 
 Инструкции по установке вашего проекта. Например:
 
 ```bash
-git clone https://github.com/animesao/bot-pterodactyl.git
-cd bot-pterodacty
+git clone https://github.com/animesao/game-cude.git
+cd game-cude
